@@ -1,0 +1,35 @@
+
+table{
+ table-layout: auto;
+  width: 95%;  
+ column-width: 70%;
+ vertical-align: top;
+
+}
+
+.detalii
+{
+  color:#000066;
+  font-family: "Verdana";
+  text-align: left;
+  font-size: 1.1vw;
+  font-style: none;
+  text-decoration-style: bold;
+  width:100%;
+   text-shadow: 1px 1px white;
+
+}
+
+.option
+{
+
+   font-family: "Georgia";
+  font-size:2vw;
+  color:#000066;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 10%;
+    height: 1.5vw;
+}

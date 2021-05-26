@@ -1,0 +1,25 @@
+.descriere
+{
+  font-family: "Georgia";
+  font-size:1.7vw;
+  color:white;
+  text-indent:1em;
+  
+  opacity:1;
+  text-align: center;
+  text-shadow: 
+     3px 0px 10px black,
+    -3px 0px 10px black,
+     6px 0px 10px black,
+    -6px 0px 10px black;
+
+}
+
+.deviza
+{
+  font-size: 1.5vw;
+  color:#000066;
+  text-align: right;
+  top: 0;
+  font-weight: bold;
+}

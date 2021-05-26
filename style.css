@@ -1,0 +1,137 @@
+
+.titlu{
+  color: #000066;
+  font-family: "Georgia";
+  font-size: 3.5vw;
+}
+
+table{
+ table-layout: fixed;
+  width: 95%;  
+ column-width: 70%;
+ vertical-align: top;
+
+}
+
+a:link {
+  text-decoration: none;
+  color:#000066;
+  text-shadow: 2px 1px white;
+ 
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000066;
+  text-shadow: 1px 1px white;
+}
+
+
+
+.motto {
+  color:#000066;
+
+  font-family: "Georgia";
+  text-align: left;
+  font-size: 0.78vw;
+  font-style: italic;
+   
+  text-indent: 40em;
+}
+.q1
+{
+  color:#000066;
+  text-shadow: 1px 1px white;
+  font-family: "Verdana";
+  text-align: center;
+  font-size: 2vw;
+  font-style: none;
+  text-decoration-style: bold;
+
+}
+
+body,html{
+  background: url("img/air.jpg");
+  width: 100%;
+  height: 100%;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center  ;
+}
+
+.button {
+  
+  background-color:transparent;
+  border:solid;
+  border-color:  #000066;
+  color:#ff3333;
+  padding: 2vw 2vw;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5vw;
+  position: relative;
+
+  
+}
+
+.bye
+{
+  text-align: center;
+  width: 100%;
+  text-indent:1em;
+  font-family: "Georgia";
+  font-size:2.5vw;
+  color:#000066;
+}
+
+input[type=text]{
+  width: 100%;
+  padding: 1vw 1vw;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password]{
+  width: 100%;
+  padding: 1vw 1vw;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 20%;
+  background-color:#000066 ;
+  color: white;
+  padding: 1vw 1vw;
+  margin: 2vw 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=reset]  {
+  width: 20%;
+  background-color: #ff3333;
+  color: white;
+  padding: 1vw 1vw;
+  margin: 2vw 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+
+.login{
+  font-family: "Georgia";
+  font-size:1.2vw;
+  color:#000066;
+   text-shadow: 1px 1px white;
+
+}
+
